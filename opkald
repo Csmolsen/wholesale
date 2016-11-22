@@ -1,0 +1,1 @@
+curl 'https://sandbox.codeswholesale.com/v1/products' -H 'Authorization: Bearer d95f6f0c-28e1-464e-8d9f-96fc0e4f63fc'
